@@ -31,7 +31,7 @@ public class Animal
 	    */
         public boolean isAlive()
     	{
-
+			return true;
     	}
 
      	/**
